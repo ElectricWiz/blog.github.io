@@ -54,6 +54,10 @@ header .icons {
     margin-right: 50px;
 }
 
+header .icons:hover {
+    color: white;    
+}
+
 header .icons span {
     color: #f1ddbf;
 }
